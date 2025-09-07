@@ -1,10 +1,9 @@
 # hi, this was made by me, testers was: @dar, @winning_smile
 # coded by me & chatgpt / deepseek
-# sorry bc code is kinda one
-# ill post upgraded versions
-# also, autofill passwords made by "Windows Hello Pincode System" (not a guy)
 
-# if something doesnt work, meet me at github:
+# run loader.bat to set-up this browser, this is my 1st project ever made.
+
+# if something does not work, meet me on Discord:
 # https://github.com/Isaki12/Xenexx-Browser
 
 # CODE_START
